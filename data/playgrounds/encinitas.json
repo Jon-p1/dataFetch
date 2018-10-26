@@ -1,0 +1,74 @@
+[
+ {
+  "name": "Las Verdes Park",
+  "address": "1390 Paseo De Las Verdes, Encinitas, CA 92024, USA",
+  "lat": 33.0552161,
+  "lng": -117.2770384
+ },
+ {
+  "name": "Cottonwood Creek Park",
+  "address": "95 N Vulcan Ave, Encinitas, CA 92024, USA",
+  "lat": 33.0513707,
+  "lng": -117.2892879
+ },
+ {
+  "name": "Wiro Park",
+  "address": "2232 El Camino Del Norte, Encinitas, CA 92024, USA",
+  "lat": 33.0507364,
+  "lng": -117.2355474
+ },
+ {
+  "name": "Leo Mullen Sports Park",
+  "address": "951 Via Cantebria, Encinitas, CA 92024, USA",
+  "lat": 33.0621185,
+  "lng": -117.263466
+ },
+ {
+  "name": "Orpheus Park",
+  "address": "482 Orpheus Ave, Encinitas, CA 92024, USA",
+  "lat": 33.057767,
+  "lng": -117.295258
+ },
+ {
+  "name": "Hawk View Park",
+  "address": "1309 Blue Heron Ave, Encinitas, CA 92024, USA",
+  "lat": 33.080426,
+  "lng": -117.2810625
+ },
+ {
+  "name": "Encinitas Community Park",
+  "address": "425 Santa Fe Dr, Encinitas, CA 92024, USA",
+  "lat": 33.0324759,
+  "lng": -117.2807797
+ },
+ {
+  "name": "Cardiff Sports Park",
+  "address": "1661 Lake Dr, Encinitas, CA 92024, USA",
+  "lat": 33.026753,
+  "lng": -117.264716
+ },
+ {
+  "name": "Oakcrest County Park",
+  "address": "1219 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0447231,
+  "lng": -117.2650397
+ },
+ {
+  "name": "Moonlight State Beach",
+  "address": "400 B St, Encinitas, CA 92024, USA",
+  "lat": 33.0477549,
+  "lng": -117.2979035
+ },
+ {
+  "name": "Fletcher Cove Beach Park",
+  "address": "111 S Sierra Ave, Solana Beach, CA 92075, USA",
+  "lat": 32.9911059,
+  "lng": -117.2736739
+ },
+ {
+  "name": "Leucadia Oaks Park",
+  "address": "1511 N Vulcan Ave, Encinitas, CA 92024, USA",
+  "lat": 33.0742323,
+  "lng": -117.3044103
+ }
+]

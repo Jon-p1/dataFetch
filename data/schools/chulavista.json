@@ -1,0 +1,362 @@
+[
+ {
+  "name": "Veterans Elementary School",
+  "address": "1550 Magdalena Ave, Chula Vista, CA 91913, USA",
+  "lat": 32.6243799,
+  "lng": -116.9773367
+ },
+ {
+  "name": "Discovery Charter Elementary",
+  "address": "1100 Camino Biscay, Chula Vista, CA 91910, USA",
+  "lat": 32.6418732,
+  "lng": -117.0158692
+ },
+ {
+  "name": "Salt Creek Elementary School",
+  "address": "1055 Hunte Pkwy, Chula Vista, CA 91914, USA",
+  "lat": 32.6485736,
+  "lng": -116.948978
+ },
+ {
+  "name": "Arroyo Vista Charter School",
+  "address": "2491 School House Rd, Chula Vista, CA 91915, USA",
+  "lat": 32.6384985,
+  "lng": -116.9528854
+ },
+ {
+  "name": "Chula Vista Hills Elementary School",
+  "address": "980 Buena Vista Way, Chula Vista, CA 91910, USA",
+  "lat": 32.6367687,
+  "lng": -117.003113
+ },
+ {
+  "name": "Mueller Charter School",
+  "address": "715 I St, Chula Vista, CA 91910, USA",
+  "lat": 32.6269185,
+  "lng": -117.0932619
+ },
+ {
+  "name": "Thurgood Marshall Elementary",
+  "address": "2295 MacKenzie Creek Rd, Chula Vista, CA 91914, USA",
+  "lat": 32.6595977,
+  "lng": -116.9664775
+ },
+ {
+  "name": "Olympic View Elementary School",
+  "address": "1220 S Greensview Dr, Chula Vista, CA 91915, USA",
+  "lat": 32.6377412,
+  "lng": -116.964933
+ },
+ {
+  "name": "Chula Vista Learning Community Charter elementary school",
+  "address": "590 K St, Chula Vista, CA 91911, USA",
+  "lat": 32.6206498,
+  "lng": -117.0833777
+ },
+ {
+  "name": "Chula Vista High School",
+  "address": "820 4th Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6214841,
+  "lng": -117.0774683
+ },
+ {
+  "name": "Heritage Elementary School",
+  "address": "1450 Santa Lucia Rd, Chula Vista, CA 91913, USA",
+  "lat": 32.6264338,
+  "lng": -116.9960845
+ },
+ {
+  "name": "Chula Vista Middle School",
+  "address": "415 5th Ave, Chula Vista, CA 91910, USA",
+  "lat": 32.6346655,
+  "lng": -117.0855655
+ },
+ {
+  "name": "Joseph Casillas Elementary School",
+  "address": "1130 E J St, Chula Vista, CA 91910, USA",
+  "lat": 32.629375,
+  "lng": -117.0110409
+ },
+ {
+  "name": "Rancho Del Rey Middle School",
+  "address": "1174 E J St, Chula Vista, CA 91910, USA",
+  "lat": 32.629523,
+  "lng": -117.0082818
+ },
+ {
+  "name": "Hilltop Drive Elementary School",
+  "address": "30 Murray St, Chula Vista, CA 91910, USA",
+  "lat": 32.6320289,
+  "lng": -117.0641743
+ },
+ {
+  "name": "Halecrest Elementary School",
+  "address": "475 E J St, Chula Vista, CA 91910, USA",
+  "lat": 32.6348801,
+  "lng": -117.0442848
+ },
+ {
+  "name": "Corky McMillin Elementary School",
+  "address": "1201 Santa Cora Ave, Chula Vista, CA 91913, USA",
+  "lat": 32.6337103,
+  "lng": -116.9840307
+ },
+ {
+  "name": "Eastlake Elementary School",
+  "address": "1955 Hillside Dr, Chula Vista, CA 91913, USA",
+  "lat": 32.6553125,
+  "lng": -116.9839985
+ },
+ {
+  "name": "Liberty Elementary School",
+  "address": "2175 Proctor Valley Rd, Chula Vista, CA 91914, USA",
+  "lat": 32.6649163,
+  "lng": -116.9774258
+ },
+ {
+  "name": "Chula Vista Elementary School District",
+  "address": "84 E J St, Chula Vista, CA 91910, USA",
+  "lat": 32.6316742,
+  "lng": -117.0584038
+ },
+ {
+  "name": "Rosebank Elementary School",
+  "address": "80 Flower St, Chula Vista, CA 91910, USA",
+  "lat": 32.6497519,
+  "lng": -117.0727161
+ },
+ {
+  "name": "Parkview Elementary School",
+  "address": "575 Juniper St, Chula Vista, CA 91911, USA",
+  "lat": 32.6136106,
+  "lng": -117.0312198
+ },
+ {
+  "name": "Lauderbach Elementary School",
+  "address": "390 Palomar St, Chula Vista, CA 91911, USA",
+  "lat": 32.6061172,
+  "lng": -117.0699384
+ },
+ {
+  "name": "Burton C Tiffany Elementary School",
+  "address": "1691 Elmhurst St, Chula Vista, CA 91913, USA",
+  "lat": 32.6455211,
+  "lng": -116.9911146
+ },
+ {
+  "name": "Harborside Elementary School",
+  "address": "681 Naples St, Chula Vista, CA 91910, USA",
+  "lat": 32.6080385,
+  "lng": -117.085483
+ },
+ {
+  "name": "Valle Lindo Elementary School",
+  "address": "1515 Oleander Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6045465,
+  "lng": -117.03183
+ },
+ {
+  "name": "Hedenkamp Elementary School",
+  "address": "930 E Palomar St, Chula Vista, CA 91913, USA",
+  "lat": 32.6165399,
+  "lng": -117.0149035
+ },
+ {
+  "name": "Clear View Elementary School",
+  "address": "455 Windrose Way, Chula Vista, CA 91910, USA",
+  "lat": 32.6454059,
+  "lng": -117.0447923
+ },
+ {
+  "name": "Hilltop High School",
+  "address": "555 Claire Ave, Chula Vista, CA 91910, USA",
+  "lat": 32.6360769,
+  "lng": -117.0590429
+ },
+ {
+  "name": "Fred H Rohr Elementary School",
+  "address": "1540 Malta Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6023362,
+  "lng": -117.0415662
+ },
+ {
+  "name": "Hazel Goes Cook Elementary School",
+  "address": "875 Cuyamaca Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6260305,
+  "lng": -117.055134
+ },
+ {
+  "name": "Feaster Charter School",
+  "address": "670 Flower St, Chula Vista, CA 91910, USA",
+  "lat": 32.6418889,
+  "lng": -117.0973814
+ },
+ {
+  "name": "Wolf Canyon Elementary School",
+  "address": "1950 Wolf Canyon Loop, Chula Vista, CA 91913, USA",
+  "lat": 32.611751,
+  "lng": -116.974545
+ },
+ {
+  "name": "Bonita Vista Middle School",
+  "address": "650 Otay Lakes Rd, Chula Vista, CA 91910, USA",
+  "lat": 32.6487765,
+  "lng": -117.0054734
+ },
+ {
+  "name": "Eastlake High School",
+  "address": "1120 Eastlake Pkwy, Chula Vista, CA 91915, USA",
+  "lat": 32.6402859,
+  "lng": -116.9675992
+ },
+ {
+  "name": "Eastlake Middle School",
+  "address": "900 Duncan Ranch Rd, Chula Vista, CA 91914, USA",
+  "lat": 32.6546493,
+  "lng": -116.9479892
+ },
+ {
+  "name": "Hilltop Middle School",
+  "address": "44 E J St, Chula Vista, CA 91910, USA",
+  "lat": 32.6305872,
+  "lng": -117.0608303
+ },
+ {
+  "name": "Howard Gardner Community School",
+  "address": "647 E St, Chula Vista, CA 91910, USA",
+  "lat": 32.6412553,
+  "lng": -117.0952167
+ },
+ {
+  "name": "Rogers Elementary School",
+  "address": "510 E Naples St, Chula Vista, CA 91911, USA",
+  "lat": 32.6225902,
+  "lng": -117.0356584
+ },
+ {
+  "name": "Castle Park Middle School",
+  "address": "160 Quintard St, Chula Vista, CA 91911, USA",
+  "lat": 32.605381,
+  "lng": -117.0595786
+ },
+ {
+  "name": "Lilian J. Rice Elementary School",
+  "address": "915 4th Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6187033,
+  "lng": -117.0752684
+ },
+ {
+  "name": "Vista Square Elementary School",
+  "address": "540 G St, Chula Vista, CA 91910, USA",
+  "lat": 32.6343694,
+  "lng": -117.0872546
+ },
+ {
+  "name": "Loma Verde Elementary School",
+  "address": "1450 Loma Ln, Chula Vista, CA 91911, USA",
+  "lat": 32.6014025,
+  "lng": -117.0489444
+ },
+ {
+  "name": "Otay Elementary School",
+  "address": "1651 Albany Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.5963547,
+  "lng": -117.0571482
+ },
+ {
+  "name": "Allen (Ella B.) Elementary School",
+  "address": "4300 Allen School Ln, Bonita, CA 91902, USA",
+  "lat": 32.6563725,
+  "lng": -117.0335719
+ },
+ {
+  "name": "Stephen W. Hawking Charter School",
+  "address": "1355 2nd Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6059247,
+  "lng": -117.0611839
+ },
+ {
+  "name": "Kellogg Elementary School",
+  "address": "229 E Naples St, Chula Vista, CA 91911, USA",
+  "lat": 32.6202804,
+  "lng": -117.0477058
+ },
+ {
+  "name": "High Tech Middle Chula Vista School",
+  "address": "1949 Discovery Falls Dr, Chula Vista, CA 91915, USA",
+  "lat": 32.6164923,
+  "lng": -116.953105
+ },
+ {
+  "name": "MAAC Community Charter School",
+  "address": "1385 Third Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6046592,
+  "lng": -117.0642379
+ },
+ {
+  "name": "Chula Vista Adult School",
+  "address": "1034 4th Ave, Chula Vista, CA 91911, USA",
+  "lat": 32.6147687,
+  "lng": -117.0750069
+ },
+ {
+  "name": "Innovation High School San Diego – Chula Vista",
+  "address": "310 Broadway, Chula Vista, CA 91910, USA",
+  "lat": 32.637215,
+  "lng": -117.09218
+ },
+ {
+  "name": "Palomar Elementary School",
+  "address": "300 E Palomar St, Chula Vista, CA 91911, USA",
+  "lat": 32.61323240000001,
+  "lng": -117.0435138
+ },
+ {
+  "name": "Bonita Country Day School",
+  "address": "625 Otay Lakes Rd, Chula Vista, CA 91913, USA",
+  "lat": 32.650188,
+  "lng": -117.00555
+ },
+ {
+  "name": "Saint Rose of Lima School",
+  "address": "278 Alvarado St, Chula Vista, CA 91910, USA",
+  "lat": 32.6352285,
+  "lng": -117.0771384
+ },
+ {
+  "name": "Olympian High School",
+  "address": "1925 Magdalena Ave, Chula Vista, CA 91913, USA",
+  "lat": 32.6079459,
+  "lng": -116.9736268
+ },
+ {
+  "name": "Options Secondary School",
+  "address": "467 Moss St, Chula Vista, CA 91911, USA",
+  "lat": 32.6143233,
+  "lng": -117.0758916
+ },
+ {
+  "name": "Mater Dei Catholic High School",
+  "address": "1615 Mater Dei Dr, Chula Vista, CA 91913, USA",
+  "lat": 32.6204588,
+  "lng": -116.9763305
+ },
+ {
+  "name": "Castle Park Elementary School",
+  "address": "25 Emerson St, Chula Vista, CA 91911, USA",
+  "lat": 32.6147843,
+  "lng": -117.0565108
+ },
+ {
+  "name": "San Diego Virtual School",
+  "address": "296 H St, Chula Vista, CA 91910, USA",
+  "lat": 32.6342325,
+  "lng": -117.0767984
+ },
+ {
+  "name": "Montessori American School",
+  "address": "3604 Bonita Rd, Chula Vista, CA 91910, USA",
+  "lat": 32.651742,
+  "lng": -117.047988
+ }
+]

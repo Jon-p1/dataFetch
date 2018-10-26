@@ -1,0 +1,362 @@
+[
+ {
+  "name": "First United Methodist Church of San Diego",
+  "address": "2111 Camino del Rio S, San Diego, CA 92108, USA",
+  "lat": 32.7670415,
+  "lng": -117.1425142
+ },
+ {
+  "name": "First Presbyterian Church of San Diego",
+  "address": "320 Date St, San Diego, CA 92101, USA",
+  "lat": 32.7233606,
+  "lng": -117.1614469
+ },
+ {
+  "name": "C3 Church San Diego",
+  "address": "7620 Balboa Ave, San Diego, CA 92111, USA",
+  "lat": 32.82232,
+  "lng": -117.159287
+ },
+ {
+  "name": "The Rock Church",
+  "address": "2277 Rosecrans St, San Diego, CA 92106, USA",
+  "lat": 32.7356775,
+  "lng": -117.2186883
+ },
+ {
+  "name": "City Church San Diego",
+  "address": "10802 Willow Ct, San Diego, CA 92127, USA",
+  "lat": 33.0158021,
+  "lng": -117.1019778
+ },
+ {
+  "name": "Cornerstone Church of San Diego - South Campus",
+  "address": "1920 Sweetwater Rd, National City, CA 91950, USA",
+  "lat": 32.6592964,
+  "lng": -117.0781311
+ },
+ {
+  "name": "Grace Church San Diego",
+  "address": "2716 Madison Ave, San Diego, CA 92116, USA",
+  "lat": 32.7612303,
+  "lng": -117.1348856
+ },
+ {
+  "name": "Gathering Place Church in San Diego, CA",
+  "address": "9550 Carmel Mountain Rd, San Diego, CA 92129, USA",
+  "lat": 32.9672159,
+  "lng": -117.1209337
+ },
+ {
+  "name": "New City Church",
+  "address": "3366 Park Blvd, San Diego, CA 92103, USA",
+  "lat": 32.7403541,
+  "lng": -117.1480406
+ },
+ {
+  "name": "Church in San Diego",
+  "address": "6640 Flanders Dr, San Diego, CA 92121, USA",
+  "lat": 32.9064243,
+  "lng": -117.175988
+ },
+ {
+  "name": "Canyon Ridge Baptist Church of San Diego",
+  "address": "6866 Linda Vista Rd, San Diego, CA 92111, USA",
+  "lat": 32.7822551,
+  "lng": -117.1729255
+ },
+ {
+  "name": "The Anchor San Diego",
+  "address": "1765 Pentecost Way, San Diego, CA 92105, USA",
+  "lat": 32.724338,
+  "lng": -117.0817067
+ },
+ {
+  "name": "Iranian Christian Church of San Diego",
+  "address": "6964 Mission Gorge Rd, San Diego, CA 92120, USA",
+  "lat": 32.7999135,
+  "lng": -117.0919399
+ },
+ {
+  "name": "Christ Church of San Diego",
+  "address": "1355 Fern St, San Diego, CA 92102, USA",
+  "lat": 32.720021,
+  "lng": -117.129206
+ },
+ {
+  "name": "Flood Church - San Diego Campus",
+  "address": "1954 Komet Way, San Diego, CA 92111, USA",
+  "lat": 32.8005256,
+  "lng": -117.1595431
+ },
+ {
+  "name": "Barabbas Road Church San Diego",
+  "address": "4833 Doliva Dr, San Diego, CA 92117, USA",
+  "lat": 32.8326135,
+  "lng": -117.1745753
+ },
+ {
+  "name": "San Diego California Temple",
+  "address": "7474 Charmant Dr, San Diego, CA 92122, USA",
+  "lat": 32.8664058,
+  "lng": -117.2286807
+ },
+ {
+  "name": "Saddleback Church San Diego",
+  "address": "Canyon Crest Academy, 5951 Village Center Loop Rd, San Diego, CA 92130, USA",
+  "lat": 32.9588146,
+  "lng": -117.1895206
+ },
+ {
+  "name": "St Spyridon Greek Orthodox Church",
+  "address": "3655 Park Blvd, San Diego, CA 92103, USA",
+  "lat": 32.7445213,
+  "lng": -117.1472799
+ },
+ {
+  "name": "All Saints Episcopal Church",
+  "address": "625 Pennsylvania Ave, San Diego, CA 92103, USA",
+  "lat": 32.74497,
+  "lng": -117.159305
+ },
+ {
+  "name": "Chinese Evangelical Church of San Diego",
+  "address": "2585 Judson St, San Diego, CA 92111, USA",
+  "lat": 32.7900665,
+  "lng": -117.1607424
+ },
+ {
+  "name": "Newbreak Church Office",
+  "address": "10791 Tierrasanta Blvd, San Diego, CA 92124, USA",
+  "lat": 32.821269,
+  "lng": -117.0994993
+ },
+ {
+  "name": "Canvas Church",
+  "address": "10733 Westview Pkwy, San Diego, CA 92126, USA",
+  "lat": 32.915209,
+  "lng": -117.117578
+ },
+ {
+  "name": "Church of Scientology of San Diego",
+  "address": "1330 Fourth Ave, San Diego, CA 92101, USA",
+  "lat": 32.7194521,
+  "lng": -117.1612836
+ },
+ {
+  "name": "First Unitarian Universalist Church of San Diego",
+  "address": "4190 Front St, San Diego, CA 92103, USA",
+  "lat": 32.7534056,
+  "lng": -117.1663176
+ },
+ {
+  "name": "Servant Church of San Diego",
+  "address": "631 S Evans St, San Diego, CA 92113, USA",
+  "lat": 32.7005279,
+  "lng": -117.1383425
+ },
+ {
+  "name": "First Baptist Church-San Diego",
+  "address": "5055 Governor Dr, San Diego, CA 92122, USA",
+  "lat": 32.853798,
+  "lng": -117.187183
+ },
+ {
+  "name": "Grace Bible Church San Diego",
+  "address": "7250 Eckstrom Ave, San Diego, CA 92111, USA",
+  "lat": 32.8206359,
+  "lng": -117.1645715
+ },
+ {
+  "name": "First Lutheran Church",
+  "address": "1420 Third Ave, San Diego, CA 92101, USA",
+  "lat": 32.7201072,
+  "lng": -117.1623785
+ },
+ {
+  "name": "St Agnes Catholic Church",
+  "address": "1140 Evergreen St, San Diego, CA 92106, USA",
+  "lat": 32.7231296,
+  "lng": -117.2338286
+ },
+ {
+  "name": "St Marks United Methodist Church, San Diego",
+  "address": "3502 Clairemont Dr, San Diego, CA 92117, USA",
+  "lat": 32.804517,
+  "lng": -117.2001905
+ },
+ {
+  "name": "New Creation Church",
+  "address": "3115 Altadena Ave, San Diego, CA 92105, USA",
+  "lat": 32.7376373,
+  "lng": -117.0887857
+ },
+ {
+  "name": "Missiongathering Christian Church",
+  "address": "3090 Polk Ave, San Diego, CA 92104, USA",
+  "lat": 32.752484,
+  "lng": -117.1280483
+ },
+ {
+  "name": "Bayview Baptist Church",
+  "address": "6134 Benson Ave, San Diego, CA 92114, USA",
+  "lat": 32.705509,
+  "lng": -117.066139
+ },
+ {
+  "name": "City View Church",
+  "address": "8404 Phyllis Pl, San Diego, CA 92123, USA",
+  "lat": 32.78440399999999,
+  "lng": -117.147133
+ },
+ {
+  "name": "Unity San Diego - a spiritual community",
+  "address": "3770 Altadena Ave, San Diego, CA 92105, USA",
+  "lat": 32.7464425,
+  "lng": -117.085753
+ },
+ {
+  "name": "All Souls' Episcopal Church",
+  "address": "1475 Catalina Blvd, San Diego, CA 92107, USA",
+  "lat": 32.7311568,
+  "lng": -117.2424421
+ },
+ {
+  "name": "The Rock Church, City Heights",
+  "address": "4001 El Cajon Blvd, San Diego, CA 92105, USA",
+  "lat": 32.7547667,
+  "lng": -117.1078422
+ },
+ {
+  "name": "Grace Point Church San Diego",
+  "address": "13340 Hayford Way, San Diego, CA 92130, USA",
+  "lat": 32.960086,
+  "lng": -117.209276
+ },
+ {
+  "name": "Immaculate Conception Church",
+  "address": "2540 San Diego Ave, San Diego, CA 92110, USA",
+  "lat": 32.7534674,
+  "lng": -117.1954108
+ },
+ {
+  "name": "St Dunstan's Episcopal Church",
+  "address": "6556 Park Ridge Blvd, San Diego, CA 92120, USA",
+  "lat": 32.79601299999999,
+  "lng": -117.0496641
+ },
+ {
+  "name": "Metropolitan Community Church",
+  "address": "2633 Denver St, San Diego, CA 92110, USA",
+  "lat": 32.7899616,
+  "lng": -117.2030396
+ },
+ {
+  "name": "Makers Church",
+  "address": "1774 Chatsworth Blvd, San Diego, CA 92106, USA",
+  "lat": 32.7336386,
+  "lng": -117.2337988
+ },
+ {
+  "name": "St. Luke's Episcopal Church",
+  "address": "3725 30th St, San Diego, CA 92104, USA",
+  "lat": 32.74576100000001,
+  "lng": -117.129686
+ },
+ {
+  "name": "San Diego 31st Street Seventh-day Adventist Church",
+  "address": "414 S 31st St, San Diego, CA 92113, USA",
+  "lat": 32.7020141,
+  "lng": -117.1276539
+ },
+ {
+  "name": "Harbor City Church",
+  "address": "705 16th St, San Diego, CA 92101, USA",
+  "lat": 32.7130346,
+  "lng": -117.1492476
+ },
+ {
+  "name": "Center Church San Diego",
+  "address": "1770 Main St, San Diego, CA 92113, USA",
+  "lat": 32.7012417,
+  "lng": -117.1487291
+ },
+ {
+  "name": "St Columba Catholic Church",
+  "address": "3327 Glencolum Dr, San Diego, CA 92123, USA",
+  "lat": 32.8042474,
+  "lng": -117.1341928
+ },
+ {
+  "name": "Grace Lutheran Church",
+  "address": "3967 Park Blvd, San Diego, CA 92103, USA",
+  "lat": 32.7499665,
+  "lng": -117.1457311
+ },
+ {
+  "name": "St David's Episcopal Church",
+  "address": "5050 Milton St, San Diego, CA 92110, USA",
+  "lat": 32.7831768,
+  "lng": -117.1898344
+ },
+ {
+  "name": "Mission Valley Church of the Nazarene",
+  "address": "4750 Mission Gorge Pl, San Diego, CA 92120, USA",
+  "lat": 32.7821269,
+  "lng": -117.089323
+ },
+ {
+  "name": "San Diego Central Seventh-day Adventist Church",
+  "address": "13940 Pomerado Rd, Poway, CA 92064, USA",
+  "lat": 32.9674977,
+  "lng": -117.0630426
+ },
+ {
+  "name": "St Timothy's Episcopal Church",
+  "address": "10125 Azuaga St, San Diego, CA 92129, USA",
+  "lat": 32.9594119,
+  "lng": -117.1068753
+ },
+ {
+  "name": "The Grove Church",
+  "address": "4562 Alvarado Canyon Rd, San Diego, CA 92120, USA",
+  "lat": 32.780309,
+  "lng": -117.096605
+ },
+ {
+  "name": "La Jolla Community Church",
+  "address": "4377 Eastgate Mall, San Diego, CA 92121, USA",
+  "lat": 32.877803,
+  "lng": -117.212405
+ },
+ {
+  "name": "St. John the Evangelist Catholic Church",
+  "address": "1638 Polk Ave, San Diego, CA 92103, USA",
+  "lat": 32.752863,
+  "lng": -117.146973
+ },
+ {
+  "name": "Good Shepherd Catholic Church",
+  "address": "8200 Gold Coast Dr, San Diego, CA 92126, USA",
+  "lat": 32.9063459,
+  "lng": -117.1469131
+ },
+ {
+  "name": "Holy Family Catholic Church & School",
+  "address": "1957 Coolidge St, San Diego, CA 92111, USA",
+  "lat": 32.7805731,
+  "lng": -117.1700271
+ },
+ {
+  "name": "University Christian Church (Disciples of Christ)",
+  "address": "3900 Cleveland Ave, San Diego, CA 92103, USA",
+  "lat": 32.750153,
+  "lng": -117.150758
+ },
+ {
+  "name": "First Unitarian Universalist Church of San Diego",
+  "address": "970 Broadway, Chula Vista, CA 91911, USA",
+  "lat": 32.6146911,
+  "lng": -117.0837293
+ }
+]

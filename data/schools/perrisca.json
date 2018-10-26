@@ -1,0 +1,362 @@
+[
+ {
+  "name": "May Ranch Elementary School",
+  "address": "900 E Morgan St, Perris, CA 92571, USA",
+  "lat": 33.8382425,
+  "lng": -117.2055425
+ },
+ {
+  "name": "Triple Crown Elmentary School",
+  "address": "530 Orange Ave, Perris, CA 92571, USA",
+  "lat": 33.8162207,
+  "lng": -117.2154025
+ },
+ {
+  "name": "Perris Lake High School",
+  "address": "418 W Ellis Ave, Perris, CA 92570, USA",
+  "lat": 33.772349,
+  "lng": -117.232669
+ },
+ {
+  "name": "Avalon Elementary School",
+  "address": "1815 E Rider St, Perris, CA 92571, USA",
+  "lat": 33.8312155,
+  "lng": -117.1862593
+ },
+ {
+  "name": "Railway Elementary School",
+  "address": "555 Alpine Dr, Perris, CA 92570, USA",
+  "lat": 33.7600447,
+  "lng": -117.2349091
+ },
+ {
+  "name": "Perris Elementary School District",
+  "address": "143 E 1st St, Perris, CA 92570, USA",
+  "lat": 33.785223,
+  "lng": -117.227111
+ },
+ {
+  "name": "Innovative Horizons Charter School at Nan Sanders",
+  "address": "1461 N A St, Perris, CA 92570, USA",
+  "lat": 33.8001652,
+  "lng": -117.2341605
+ },
+ {
+  "name": "Perris Elementary School",
+  "address": "500 S A St, Perris, CA 92570, USA",
+  "lat": 33.7807172,
+  "lng": -117.2357818
+ },
+ {
+  "name": "Pinacate Middle School",
+  "address": "1990 S A St, Perris, CA 92570, USA",
+  "lat": 33.765628,
+  "lng": -117.235383
+ },
+ {
+  "name": "Sky View Elementary School",
+  "address": "625 Mildred St, Perris, CA 92570, USA",
+  "lat": 33.7951363,
+  "lng": -117.2101334
+ },
+ {
+  "name": "Enchanted Hills Elementary School",
+  "address": "1357 Mt Baldy St, Perris, CA 92570, USA",
+  "lat": 33.7837141,
+  "lng": -117.2558129
+ },
+ {
+  "name": "Palms Elementary School",
+  "address": "255 E Jarvis St, Perris, CA 92571, USA",
+  "lat": 33.7911505,
+  "lng": -117.2207899
+ },
+ {
+  "name": "Lakeside Middle School",
+  "address": "27720 Walnut St, Perris, CA 92571, USA",
+  "lat": 33.8269282,
+  "lng": -117.1787226
+ },
+ {
+  "name": "Sierra Vista Elementary School",
+  "address": "20300 Sherman Rd, Perris, CA 92571, USA",
+  "lat": 33.8253463,
+  "lng": -117.1821225
+ },
+ {
+  "name": "Val Verde Elementary School",
+  "address": "2656 Indian Ave, Perris, CA 92571, USA",
+  "lat": 33.8204246,
+  "lng": -117.236379
+ },
+ {
+  "name": "Perris Union High School District",
+  "address": "155 E 4th St, Perris, CA 92570, USA",
+  "lat": 33.781986,
+  "lng": -117.227308
+ },
+ {
+  "name": "Val Verde Unified School District",
+  "address": "975 Morgan St, Perris, CA 92571, USA",
+  "lat": 33.8368701,
+  "lng": -117.2467456
+ },
+ {
+  "name": "Park Avenue Elementary School",
+  "address": "445 Park Ave, Perris, CA 92570, USA",
+  "lat": 33.7821353,
+  "lng": -117.236356
+ },
+ {
+  "name": "Nan Sanders Elementary School",
+  "address": "1461 N A St, Perris, CA 92570, USA",
+  "lat": 33.800138,
+  "lng": -117.2344017
+ },
+ {
+  "name": "St. James Catholic School",
+  "address": "250 W 3rd St, Perris, CA 92570, USA",
+  "lat": 33.7835781,
+  "lng": -117.2313461
+ },
+ {
+  "name": "Temple Christian School",
+  "address": "745 N Perris Blvd, Perris, CA 92571, USA",
+  "lat": 33.7929604,
+  "lng": -117.2256436
+ },
+ {
+  "name": "Perris High School",
+  "address": "175 E Nuevo Rd, Perris, CA 92571, USA",
+  "lat": 33.8000121,
+  "lng": -117.2234774
+ },
+ {
+  "name": "Clearwater Elementary School",
+  "address": "1640 Murrieta Rd, Perris, CA 92571, USA",
+  "lat": 33.8028238,
+  "lng": -117.2094957
+ },
+ {
+  "name": "SIATech Perris Independent Study High School",
+  "address": "11 S D St #18, Perris, CA 92570, USA",
+  "lat": 33.7863266,
+  "lng": -117.2277232
+ },
+ {
+  "name": "California Military Institute",
+  "address": "755 N A St, Perris, CA 92570, USA",
+  "lat": 33.79198179999999,
+  "lng": -117.2337827
+ },
+ {
+  "name": "Orange Vista High School",
+  "address": "E., 1400 Orange Ave, Perris, CA 92571, United States",
+  "lat": 33.8146637,
+  "lng": -117.1980392
+ },
+ {
+  "name": "Perris Community Adult School",
+  "address": "418 W Ellis Ave, Perris, CA 92570, USA",
+  "lat": 33.7731997,
+  "lng": -117.2326532
+ },
+ {
+  "name": "Lighthouse Christian Academy",
+  "address": "23100 Betty Rd, Perris, CA 92570, USA",
+  "lat": 33.761932,
+  "lng": -117.256745
+ },
+ {
+  "name": "Choice 2000 On Line School",
+  "address": "155 E 4th St, Perris, CA 92570, USA",
+  "lat": 33.7819861,
+  "lng": -117.2273414
+ },
+ {
+  "name": "Perris Community Day School",
+  "address": "515 E 7th St, Perris, CA 92570, USA",
+  "lat": 33.7793201,
+  "lng": -117.2190792
+ },
+ {
+  "name": "Orange Vista High School",
+  "address": "1400, Orange Ave, Perris, CA 92571, United States",
+  "lat": 33.815521,
+  "lng": -117.199561
+ },
+ {
+  "name": "Citrus Hill High School",
+  "address": "18150 Wood Rd, Perris, CA 92570, USA",
+  "lat": 33.856313,
+  "lng": -117.330155
+ },
+ {
+  "name": "Oak Grove at the Ranch",
+  "address": "1251 N A St, Perris, CA 92570, USA",
+  "lat": 33.7980854,
+  "lng": -117.2335237
+ },
+ {
+  "name": "Rob Reiner Children & Families Center",
+  "address": "2221 S A St, Perris, CA 92570, USA",
+  "lat": 33.7587655,
+  "lng": -117.2344049
+ },
+ {
+  "name": "Choice 2000 On-Line School",
+  "address": "755 N A St, Perris, CA 92570, USA",
+  "lat": 33.7922902,
+  "lng": -117.2345087
+ },
+ {
+  "name": "Good Hope Elementary",
+  "address": "24050 Theda St, Perris, CA 92570, USA",
+  "lat": 33.7712762,
+  "lng": -117.2745924
+ },
+ {
+  "name": "Tomas Rivera Middle School",
+  "address": "21675 Martin St, Perris, CA 92570, USA",
+  "lat": 33.8438404,
+  "lng": -117.2840886
+ },
+ {
+  "name": "Val Verde Unified Sch Dis",
+  "address": "972 Morgan St, Perris, CA 92571, USA",
+  "lat": 33.8385019,
+  "lng": -117.2470357
+ },
+ {
+  "name": "Columbia Elementary School",
+  "address": "21350 Rider St, Perris, CA 92570, USA",
+  "lat": 33.830634,
+  "lng": -117.289579
+ },
+ {
+  "name": "Academy",
+  "address": "515 E 7th St, Perris, CA 92570, USA",
+  "lat": 33.7793201,
+  "lng": -117.2190792
+ },
+ {
+  "name": "Manuel L. Real Elementary School",
+  "address": "19150 Clark St, Perris, CA 92570, USA",
+  "lat": 33.8414466,
+  "lng": -117.2863489
+ },
+ {
+  "name": "Val Verde Regional Learning Center",
+  "address": "3710 Webster Ave, Perris, CA 92571, USA",
+  "lat": 33.83841950000001,
+  "lng": -117.244434
+ },
+ {
+  "name": "School, Perris Ca.",
+  "address": "26770 Orange Ave, Perris, CA 92571, USA",
+  "lat": 33.8152273,
+  "lng": -117.1954245
+ },
+ {
+  "name": "Riverside County Office of Educ",
+  "address": "3010 Webster Ave, Perris, CA 92571, USA",
+  "lat": 33.8354831,
+  "lng": -117.2438622
+ },
+ {
+  "name": "Val Verde Student Success Academy",
+  "address": "972 West Morgan St., Perris, CA, 92571, Perris, CA 92571, United States",
+  "lat": 33.8384495,
+  "lng": -117.2471272
+ },
+ {
+  "name": "Mead Valley Elementary School",
+  "address": "21100 Oleander Ave, Perris, CA 92570, USA",
+  "lat": 33.8593581,
+  "lng": -117.2950207
+ },
+ {
+  "name": "PERRIS CBK- COME BACK KIDS",
+  "address": "515 E 7th St, Perris, CA 92570, USA",
+  "lat": 33.7793357,
+  "lng": -117.2190777
+ },
+ {
+  "name": "elemantry school",
+  "address": "2652 Spectacular Bid St, Perris, CA 92571, USA",
+  "lat": 33.8193945,
+  "lng": -117.2179158
+ },
+ {
+  "name": "Perris Union District Maintenance",
+  "address": "300 W Metz Rd, Perris, CA 92570, USA",
+  "lat": 33.7936691,
+  "lng": -117.2340898
+ },
+ {
+  "name": "Bright Futures Academy",
+  "address": "1251 N A St, Perris, CA 92570, USA",
+  "lat": 33.79813499999999,
+  "lng": -117.2335162
+ },
+ {
+  "name": "Vista Verde Middle School",
+  "address": "25777 Krameria Ave, Moreno Valley, CA 92551, USA",
+  "lat": 33.8813053,
+  "lng": -117.2119242
+ },
+ {
+  "name": "Extended Learning Center School",
+  "address": "755 N A St, Perris, CA 92570, USA",
+  "lat": 33.7922902,
+  "lng": -117.2345087
+ },
+ {
+  "name": "Perris Early Head Start",
+  "address": "148 Avocado Ave, Perris, CA 92571, USA",
+  "lat": 33.810693,
+  "lng": -117.222571
+ },
+ {
+  "name": "Perris KinderCare",
+  "address": "610 E Nuevo Rd, Perris, CA 92571, USA",
+  "lat": 33.801566,
+  "lng": -117.2125
+ },
+ {
+  "name": "Perris Mid high school",
+  "address": "121, Cuyahoga Ct, Perris, CA 92570, United States",
+  "lat": 33.7459786,
+  "lng": -117.2236215
+ },
+ {
+  "name": "Perris Elementary School District Staff Development Center",
+  "address": "S A St, Perris, CA 92570, USA",
+  "lat": 33.7590891,
+  "lng": -117.2345162
+ },
+ {
+  "name": "Heritage High School",
+  "address": "26000 Briggs Rd, Sun City, CA 92585, USA",
+  "lat": 33.7411561,
+  "lng": -117.1375816
+ },
+ {
+  "name": "Ultralight Perris Valley Arprt",
+  "address": "2091 Goetz Rd, Perris, CA 92570, USA",
+  "lat": 33.7632172,
+  "lng": -117.2216846
+ },
+ {
+  "name": "Rancho Verde High School",
+  "address": "17750 Lasselle St, Moreno Valley, CA 92551, USA",
+  "lat": 33.8613638,
+  "lng": -117.2083723
+ },
+ {
+  "name": "Verano Early Headstart",
+  "address": "1066 S D St, Perris, CA 92570, USA",
+  "lat": 33.7768098,
+  "lng": -117.2289491
+ }
+]

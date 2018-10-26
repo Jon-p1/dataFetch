@@ -1,0 +1,362 @@
+[
+ {
+  "name": "The Grauer School",
+  "address": "1500 S El Camino Real, Encinitas, CA 92024, USA",
+  "lat": 33.0285769,
+  "lng": -117.2562214
+ },
+ {
+  "name": "Montessori School of Encinitas",
+  "address": "141 El Camino Real # E, Encinitas, CA 92024, USA",
+  "lat": 33.04446010000001,
+  "lng": -117.2579269
+ },
+ {
+  "name": "Ocean Knoll Elementary School",
+  "address": "910 Melba Rd, Encinitas, CA 92024, USA",
+  "lat": 33.040562,
+  "lng": -117.2716531
+ },
+ {
+  "name": "Flora Vista Elementary School",
+  "address": "1690 Wandering Rd, Encinitas, CA 92024, USA",
+  "lat": 33.0561311,
+  "lng": -117.2535575
+ },
+ {
+  "name": "San Dieguito Academy",
+  "address": "800 Santa Fe Dr, Encinitas, CA 92024, USA",
+  "lat": 33.0371436,
+  "lng": -117.2749972
+ },
+ {
+  "name": "Oak Crest Middle School",
+  "address": "675 Balour Dr, Encinitas, CA 92024, USA",
+  "lat": 33.0427952,
+  "lng": -117.2652903
+ },
+ {
+  "name": "Encinitas Country Day School",
+  "address": "3616 Manchester Ave, Encinitas, CA 92024, USA",
+  "lat": 33.02098,
+  "lng": -117.252547
+ },
+ {
+  "name": "The Rhoades School",
+  "address": "141 S Rancho Santa Fe Rd, Encinitas, CA 92024, USA",
+  "lat": 33.0365446,
+  "lng": -117.2373911
+ },
+ {
+  "name": "Encinitas Union School District",
+  "address": "101 S Rancho Santa Fe Rd, Encinitas, CA 92024, USA",
+  "lat": 33.037134,
+  "lng": -117.237928
+ },
+ {
+  "name": "Paul Ecke Central Elementary School",
+  "address": "185 Union St, Encinitas, CA 92024, USA",
+  "lat": 33.0572712,
+  "lng": -117.29737
+ },
+ {
+  "name": "Capri Elementary School",
+  "address": "941 Capri Rd, Encinitas, CA 92024, USA",
+  "lat": 33.0756139,
+  "lng": -117.2885531
+ },
+ {
+  "name": "Pacific Academy",
+  "address": "679 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.047997,
+  "lng": -117.277693
+ },
+ {
+  "name": "Rancho Encinitas Academy",
+  "address": "910 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0471887,
+  "lng": -117.2718368
+ },
+ {
+  "name": "Sunset Graduation High School",
+  "address": "684 Requeza St, Encinitas, CA 92024, USA",
+  "lat": 33.0439767,
+  "lng": -117.2777545
+ },
+ {
+  "name": "Saint John School",
+  "address": "1003 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.044849,
+  "lng": -117.271391
+ },
+ {
+  "name": "Diegueno Middle School",
+  "address": "2150 Village Park Way, Encinitas, CA 92024, USA",
+  "lat": 33.0579342,
+  "lng": -117.2420125
+ },
+ {
+  "name": "Park Dale Lane Elementary",
+  "address": "2050 Parkdale Ln, Encinitas, CA 92024, USA",
+  "lat": 33.0469365,
+  "lng": -117.2424674
+ },
+ {
+  "name": "Oasis Community School",
+  "address": "216 La Mesa Ave, Encinitas, CA 92024, USA",
+  "lat": 33.053058,
+  "lng": -117.298934
+ },
+ {
+  "name": "Central Montessori School",
+  "address": "286 N El Camino Real, Encinitas, CA 92024, USA",
+  "lat": 33.053729,
+  "lng": -117.262918
+ },
+ {
+  "name": "LePort Montessori Encinitas",
+  "address": "520 Balour Dr, Encinitas, CA 92024, USA",
+  "lat": 33.044578,
+  "lng": -117.2691138
+ },
+ {
+  "name": "San Dieguito School District",
+  "address": "710 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0491003,
+  "lng": -117.2765222
+ },
+ {
+  "name": "Olivenhain Pioneer Elementary School",
+  "address": "8000 Calle Acervo, Carlsbad, CA 92009, USA",
+  "lat": 33.0618143,
+  "lng": -117.2388923
+ },
+ {
+  "name": "Encinitas Country Day School",
+  "address": "2155 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0378704,
+  "lng": -117.2409885
+ },
+ {
+  "name": "El Camino Creek Elementary School",
+  "address": "7885 Paseo Aliso, Carlsbad, CA 92009, USA",
+  "lat": 33.0758654,
+  "lng": -117.2598958
+ },
+ {
+  "name": "Julian Charter School",
+  "address": "539 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0453412,
+  "lng": -117.2799083
+ },
+ {
+  "name": "Julian Charter School",
+  "address": "777 Santa Fe Dr, Encinitas, CA 92024, USA",
+  "lat": 33.0361251,
+  "lng": -117.2753125
+ },
+ {
+  "name": "San Dieguito Union High School District",
+  "address": "625 N Vulcan Ave, Encinitas, CA 92024, USA",
+  "lat": 33.0606093,
+  "lng": -117.2999296
+ },
+ {
+  "name": "Cardiff Elementary School",
+  "address": "1888 Montgomery Ave, Cardiff, CA 92007, USA",
+  "lat": 33.02552730000001,
+  "lng": -117.2837372
+ },
+ {
+  "name": "Ada W. Harris Elementary School",
+  "address": "1508 Windsor Rd, Cardiff, CA 92007, USA",
+  "lat": 33.0313857,
+  "lng": -117.2740015
+ },
+ {
+  "name": "Dehesa Charter School",
+  "address": "367 La Veta Ave, Encinitas, CA 92024, USA",
+  "lat": 33.0555505,
+  "lng": -117.2984727
+ },
+ {
+  "name": "Mission Estancia Elementary School",
+  "address": "3330 Calle Barcelona, Carlsbad, CA 92009, USA",
+  "lat": 33.0721777,
+  "lng": -117.2404153
+ },
+ {
+  "name": "Sanderling Waldorf School, Grades Campus",
+  "address": "2585 Business Park Dr, Vista, CA 92081, USA",
+  "lat": 33.1483972,
+  "lng": -117.2340448
+ },
+ {
+  "name": "San Dieguito Adult School",
+  "address": "710 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0490965,
+  "lng": -117.276532
+ },
+ {
+  "name": "Lighthouse Christian Preschool",
+  "address": "510 S El Camino Real, Encinitas, CA 92024, USA",
+  "lat": 33.0370497,
+  "lng": -117.2592918
+ },
+ {
+  "name": "Encinitas School of Music",
+  "address": "775 Orpheus Ave, Encinitas, CA 92024, USA",
+  "lat": 33.063258,
+  "lng": -117.292902
+ },
+ {
+  "name": "SwimLabs Swim School",
+  "address": "519 Encinitas Blvd suite 100, Encinitas, CA 92024, USA",
+  "lat": 33.04636,
+  "lng": -117.2807
+ },
+ {
+  "name": "Leucadia Children's School Inc.",
+  "address": "1337 N Vulcan Ave, Encinitas, CA 92024, USA",
+  "lat": 33.071449,
+  "lng": -117.30355
+ },
+ {
+  "name": "Santa Fe Christian Preschool",
+  "address": "845 Santa Fe Dr, Encinitas, CA 92024, USA",
+  "lat": 33.0361347,
+  "lng": -117.2741578
+ },
+ {
+  "name": "School of Rock Encinitas",
+  "address": "165 S El Camino Real, Encinitas, CA 92024, USA",
+  "lat": 33.043892,
+  "lng": -117.2588976
+ },
+ {
+  "name": "North County School of the Arts",
+  "address": "535 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0462304,
+  "lng": -117.279956
+ },
+ {
+  "name": "Positive Place Montessori School",
+  "address": "1221 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.0460244,
+  "lng": -117.2646297
+ },
+ {
+  "name": "Bach to Rock Encinitas",
+  "address": "282 N El Camino Real suite c, Encinitas, CA 92024, USA",
+  "lat": 33.052952,
+  "lng": -117.263177
+ },
+ {
+  "name": "Natural Healing Institute of Naturopathy, Inc.",
+  "address": "2236 Encinitas Blvd e, Encinitas, CA 92024, USA",
+  "lat": 33.0383416,
+  "lng": -117.2392073
+ },
+ {
+  "name": "The Academy at Bright Horizons",
+  "address": "2232 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.037997,
+  "lng": -117.239555
+ },
+ {
+  "name": "Natural Success School-Hlstcs",
+  "address": "843 4th St, Encinitas, CA 92024, USA",
+  "lat": 33.040942,
+  "lng": -117.295796
+ },
+ {
+  "name": "Eli Howard Surf School",
+  "address": "2050 S Coast Hwy 101, Cardiff, CA 92007, USA",
+  "lat": 33.02108700000001,
+  "lng": -117.284116
+ },
+ {
+  "name": "Maui Surf Academy",
+  "address": "1298 S Coast Hwy 101, Encinitas, CA 92024, USA",
+  "lat": 33.0349626,
+  "lng": -117.2916578
+ },
+ {
+  "name": "San Dieguito Union Alternative Education School",
+  "address": "Encinitas, CA 92024, USA",
+  "lat": 33.0436532,
+  "lng": -117.2789259
+ },
+ {
+  "name": "Dance North County",
+  "address": "535 Encinitas Blvd, Encinitas, CA 92024, USA",
+  "lat": 33.046044,
+  "lng": -117.279763
+ },
+ {
+  "name": "La Costa Canyon High School",
+  "address": "1 Maverick Way, Carlsbad, CA 92009, USA",
+  "lat": 33.0732673,
+  "lng": -117.2303476
+ },
+ {
+  "name": "Bright Horizons at Encinitas",
+  "address": "1430 Amargosa Dr, Encinitas, CA 92024, USA",
+  "lat": 33.0666396,
+  "lng": -117.2547626
+ },
+ {
+  "name": "Montessori Children's House",
+  "address": "220 Calle De Madera, Encinitas, CA 92024, USA",
+  "lat": 33.0627775,
+  "lng": -117.2988233
+ },
+ {
+  "name": "St. James Academy",
+  "address": "623 S Nardo Ave, Solana Beach, CA 92075, USA",
+  "lat": 32.98426,
+  "lng": -117.263947
+ },
+ {
+  "name": "La Costa Heights Elementary School",
+  "address": "3035 Levante St, Carlsbad, CA 92009, USA",
+  "lat": 33.0801453,
+  "lng": -117.2434527
+ },
+ {
+  "name": "Intelligent Choice Educational Center",
+  "address": "1377 N Vulcan Ave, Encinitas, CA 92024, USA",
+  "lat": 33.071912,
+  "lng": -117.303585
+ },
+ {
+  "name": "Devine Guitar School",
+  "address": "Suite 110, 1224 N Coast Hwy, Encinitas, CA 92024, United States",
+  "lat": 33.069877,
+  "lng": -117.30437
+ },
+ {
+  "name": "Cardiff School",
+  "address": "Cardiff, CA 92007, USA",
+  "lat": 33.024997,
+  "lng": -117.28371
+ },
+ {
+  "name": "Skyline Elementary School",
+  "address": "606 Lomas Santa Fe Dr, Solana Beach, CA 92075, USA",
+  "lat": 32.9966735,
+  "lng": -117.2618487
+ },
+ {
+  "name": "Solana Vista Elementary School",
+  "address": "780 Santa Victoria, Solana Beach, CA 92075, USA",
+  "lat": 33.0036444,
+  "lng": -117.2503084
+ },
+ {
+  "name": "Watts Atelier of the Arts Llc",
+  "address": "171 Calle Magdalena # 103, Encinitas, CA 92024, USA",
+  "lat": 33.0456389,
+  "lng": -117.2831572
+ }
+]

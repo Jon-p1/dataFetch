@@ -1,0 +1,362 @@
+[
+ {
+  "name": "Notre Dame Academy Elementary School",
+  "address": "2911 Overland Ave, Los Angeles, CA 90064, USA",
+  "lat": 34.033526,
+  "lng": -118.418947
+ },
+ {
+  "name": "Los Angeles High School",
+  "address": "4650 W Olympic Blvd, Los Angeles, CA 90019, USA",
+  "lat": 34.0554228,
+  "lng": -118.3329959
+ },
+ {
+  "name": "Loyola High School",
+  "address": "1901 Venice Blvd, Los Angeles, CA 90006, USA",
+  "lat": 34.044917,
+  "lng": -118.296672
+ },
+ {
+  "name": "Marlborough School",
+  "address": "250 S Rossmore Ave, Los Angeles, CA 90004, USA",
+  "lat": 34.0699098,
+  "lng": -118.3268349
+ },
+ {
+  "name": "Brentwood School, East Campus",
+  "address": "100 S Barrington Pl, Los Angeles, CA 90049, USA",
+  "lat": 34.067168,
+  "lng": -118.468795
+ },
+ {
+  "name": "The Archer School for Girls",
+  "address": "11725 Sunset Blvd, Los Angeles, CA 90049, USA",
+  "lat": 34.0650914,
+  "lng": -118.471615
+ },
+ {
+  "name": "New Los Angeles Charter Elementary School",
+  "address": "1919 S Burnside Ave, Los Angeles, CA 90016, USA",
+  "lat": 34.0405831,
+  "lng": -118.3580205
+ },
+ {
+  "name": "Wildwood School",
+  "address": "11811 Olympic Blvd, Los Angeles, CA 90064, USA",
+  "lat": 34.0338616,
+  "lng": -118.4515361
+ },
+ {
+  "name": "Milken Community Schools",
+  "address": "15800 Zeldins Way, Los Angeles, CA 90049, USA",
+  "lat": 34.1257621,
+  "lng": -118.4781846
+ },
+ {
+  "name": "Pilgrim School",
+  "address": "540 South Commonwealth Avenue, Los Angeles, CA 90020, USA",
+  "lat": 34.0641165,
+  "lng": -118.2848656
+ },
+ {
+  "name": "American University Preparatory School",
+  "address": "345 S Figueroa St #100, Los Angeles, CA 90071, USA",
+  "lat": 34.054276,
+  "lng": -118.255787
+ },
+ {
+  "name": "Bishop Conaty- Our Lady of Loretto High School",
+  "address": "2900 Pico Blvd, Los Angeles, CA 90006, USA",
+  "lat": 34.0466765,
+  "lng": -118.3031833
+ },
+ {
+  "name": "Downtown Magnets High School",
+  "address": "1081 W Temple St, Los Angeles, CA 90012, USA",
+  "lat": 34.0630446,
+  "lng": -118.250412
+ },
+ {
+  "name": "Fusion Academy Los Angeles",
+  "address": "1640 S Sepulveda Blvd #100, Los Angeles, CA 90025, USA",
+  "lat": 34.0489062,
+  "lng": -118.4451176
+ },
+ {
+  "name": "Academia Semillas Del Pueblo School",
+  "address": "4970 Huntington Dr, Los Angeles, CA 90032, USA",
+  "lat": 34.0875738,
+  "lng": -118.1743204
+ },
+ {
+  "name": "Wildwood School",
+  "address": "12201 Washington Pl, Los Angeles, CA 90066, USA",
+  "lat": 34.000672,
+  "lng": -118.428849
+ },
+ {
+  "name": "The Episcopal School of Los Angeles",
+  "address": "6325 Santa Monica Blvd, Los Angeles, CA 90038, USA",
+  "lat": 34.0910272,
+  "lng": -118.3276369
+ },
+ {
+  "name": "Yeshiva University High School",
+  "address": "9760 Pico Blvd, Los Angeles, CA 90035, USA",
+  "lat": 34.05388,
+  "lng": -118.4012934
+ },
+ {
+  "name": "Hollywood High School",
+  "address": "1521 N Highland Ave, Los Angeles, CA 90028, USA",
+  "lat": 34.099165,
+  "lng": -118.3400514
+ },
+ {
+  "name": "Windward School",
+  "address": "11350 Palms Blvd, Los Angeles, CA 90066, USA",
+  "lat": 34.0174798,
+  "lng": -118.4261578
+ },
+ {
+  "name": "Los Angeles International Charter High School",
+  "address": "625 Coleman Ave, Los Angeles, CA 90042, USA",
+  "lat": 34.1028328,
+  "lng": -118.1826621
+ },
+ {
+  "name": "John Marshall High School",
+  "address": "3939 Tracy St, Los Angeles, CA 90027, USA",
+  "lat": 34.1079309,
+  "lng": -118.2774744
+ },
+ {
+  "name": "Los Angeles High School of the Arts",
+  "address": "701 S Catalina St A414, Los Angeles, CA 90005, USA",
+  "lat": 34.0598891,
+  "lng": -118.2968022
+ },
+ {
+  "name": "Marymount High School",
+  "address": "10643 Sunset Blvd, Los Angeles, CA 90077, USA",
+  "lat": 34.0759611,
+  "lng": -118.4452426
+ },
+ {
+  "name": "International School of Los Angeles / Lycée International",
+  "address": "4155 Russell Ave, Los Angeles, CA 90027, USA",
+  "lat": 34.1043464,
+  "lng": -118.279565
+ },
+ {
+  "name": "Ramón C. Cortines School of Visual and Performing Arts",
+  "address": "450 N Grand Ave, Los Angeles, CA 90012, USA",
+  "lat": 34.059121,
+  "lng": -118.243368
+ },
+ {
+  "name": "Green Dot Public Schools",
+  "address": "1149 S Hill St, Los Angeles, CA 90015, USA",
+  "lat": 34.0392113,
+  "lng": -118.2612751
+ },
+ {
+  "name": "The Los Angeles Film School",
+  "address": "6353 Sunset Blvd, Los Angeles, CA 90028, USA",
+  "lat": 34.0983007,
+  "lng": -118.3285297
+ },
+ {
+  "name": "Sacred Heart High School",
+  "address": "2111 Griffin Ave, Los Angeles, CA 90031, USA",
+  "lat": 34.069865,
+  "lng": -118.21199
+ },
+ {
+  "name": "Notre Dame Academy Los Angeles",
+  "address": "2851 Overland Ave, Los Angeles, CA 90064, USA",
+  "lat": 34.0341619,
+  "lng": -118.4193739
+ },
+ {
+  "name": "Harvard-Westlake School",
+  "address": "700 N Faring Rd, Los Angeles, CA 90077, USA",
+  "lat": 34.0887482,
+  "lng": -118.4340011
+ },
+ {
+  "name": "Los Angeles Unified School District",
+  "address": "2114 Marengo St, Los Angeles, CA 90033, USA",
+  "lat": 34.055793,
+  "lng": -118.2057266
+ },
+ {
+  "name": "Ánimo Jackie Robinson Charter High School",
+  "address": "3500 S Hill St, Los Angeles, CA 90007, USA",
+  "lat": 34.0174954,
+  "lng": -118.2759071
+ },
+ {
+  "name": "Ánimo Jefferson Charter Middle School",
+  "address": "1655 E 27th St, Los Angeles, CA 90011, USA",
+  "lat": 34.012487,
+  "lng": -118.243516
+ },
+ {
+  "name": "Oscar De La Hoya Ánimo Charter High School",
+  "address": "1114 S Lorena St, Los Angeles, CA 90023, USA",
+  "lat": 34.0234182,
+  "lng": -118.2033486
+ },
+ {
+  "name": "Manchester Avenue Elementary School",
+  "address": "661 W 87th St, Los Angeles, CA 90044, USA",
+  "lat": 33.959498,
+  "lng": -118.2855724
+ },
+ {
+  "name": "Stratford School - Los Angeles Melrose",
+  "address": "1200 N Cahuenga Blvd, Los Angeles, CA 90038, USA",
+  "lat": 34.092808,
+  "lng": -118.3283825
+ },
+ {
+  "name": "California Academy of Mathematics and Science School",
+  "address": "1000 E Victoria St, Carson, CA 90747, USA",
+  "lat": 33.8611018,
+  "lng": -118.2547207
+ },
+ {
+  "name": "Westridge School",
+  "address": "324 Madeline Dr, Pasadena, CA 91105, USA",
+  "lat": 34.1264782,
+  "lng": -118.1562905
+ },
+ {
+  "name": "Immaculate Heart High School",
+  "address": "5515 Franklin Ave, Los Angeles, CA 90028, USA",
+  "lat": 34.1057717,
+  "lng": -118.3104074
+ },
+ {
+  "name": "Mayfield Senior School",
+  "address": "500 Bellefontaine St, Pasadena, CA 91105, USA",
+  "lat": 34.1315926,
+  "lng": -118.1610641
+ },
+ {
+  "name": "Los Angeles Elementary School",
+  "address": "1211 S Hobart Blvd, Los Angeles, CA 90006, USA",
+  "lat": 34.0476826,
+  "lng": -118.305646
+ },
+ {
+  "name": "The Buckley School",
+  "address": "3900 Stansbury Ave, Sherman Oaks, CA 91423, USA",
+  "lat": 34.1405181,
+  "lng": -118.4432601
+ },
+ {
+  "name": "Ánimo South Los Angeles",
+  "address": "11100 S Western Ave, Los Angeles, CA 90047, USA",
+  "lat": 33.9334954,
+  "lng": -118.3085659
+ },
+ {
+  "name": "Kipp La Prep",
+  "address": "2810 Whittier Blvd, Los Angeles, CA 90023, USA",
+  "lat": 34.0315712,
+  "lng": -118.2097417
+ },
+ {
+  "name": "Bulgarian School in Los Angeles Ivan Vazov Българско училище в Лос Анжелис",
+  "address": "1162 N Bronson Ave, Los Angeles, CA 90038, USA",
+  "lat": 34.0921947,
+  "lng": -118.3177706
+ },
+ {
+  "name": "Los Angeles Academy Middle School",
+  "address": "644 56th St, Los Angeles, CA 90011, USA",
+  "lat": 33.9908852,
+  "lng": -118.2643953
+ },
+ {
+  "name": "Thomas Jefferson High School",
+  "address": "1319 E 41st St, Los Angeles, CA 90011, USA",
+  "lat": 34.0108793,
+  "lng": -118.2510101
+ },
+ {
+  "name": "Cathedral High School",
+  "address": "1253 Bishops Rd, Los Angeles, CA 90012, USA",
+  "lat": 34.0698258,
+  "lng": -118.2345963
+ },
+ {
+  "name": "Louisville High School",
+  "address": "22300 Mulholland Dr, Woodland Hills, CA 91364, USA",
+  "lat": 34.1488217,
+  "lng": -118.6098927
+ },
+ {
+  "name": "International School of Los Angeles / Lycée International",
+  "address": "1105 W Riverside Dr, Burbank, CA 91506, USA",
+  "lat": 34.159548,
+  "lng": -118.312786
+ },
+ {
+  "name": "High Tech Los Angeles",
+  "address": "17111 Victory Blvd, Lake Balboa, CA 91406, USA",
+  "lat": 34.1872124,
+  "lng": -118.5061308
+ },
+ {
+  "name": "Curtis School",
+  "address": "15871 Mulholland Dr, Los Angeles, CA 90049, USA",
+  "lat": 34.1284459,
+  "lng": -118.477505
+ },
+ {
+  "name": "Oakwood Elementary School",
+  "address": "11230 Moorpark St, North Hollywood, CA 91602, USA",
+  "lat": 34.1496385,
+  "lng": -118.3755957
+ },
+ {
+  "name": "Le Lycée Français de Los Angeles",
+  "address": "3261 Overland Ave, Los Angeles, CA 90034, USA",
+  "lat": 34.02770510000001,
+  "lng": -118.4143362
+ },
+ {
+  "name": "Bais Chana High School",
+  "address": "9017 Pico Blvd, Los Angeles, CA 90035, USA",
+  "lat": 34.0554056,
+  "lng": -118.3880096
+ },
+ {
+  "name": "Campbell Hall",
+  "address": "4533 Laurel Canyon Blvd, North Hollywood, CA 91607, USA",
+  "lat": 34.1526102,
+  "lng": -118.3977745
+ },
+ {
+  "name": "Woodrow Wilson Senior High School",
+  "address": "4500 Multnomah St, Los Angeles, CA 90032, USA",
+  "lat": 34.0699853,
+  "lng": -118.1862623
+ },
+ {
+  "name": "Hillcrest Drive Elementary School",
+  "address": "4041 Hillcrest Dr, Los Angeles, CA 90008, USA",
+  "lat": 34.0133005,
+  "lng": -118.3475558
+ },
+ {
+  "name": "Verbum Dei High School",
+  "address": "11100 S Central Ave, Los Angeles, CA 90059, USA",
+  "lat": 33.9346846,
+  "lng": -118.2533664
+ }
+]

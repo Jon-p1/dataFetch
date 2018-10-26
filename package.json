@@ -1,0 +1,19 @@
+{
+  "name": "datafetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "json2csv": "^4.1.5",
+    "jsonfile": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "Jon P",
+  "license": "ISC"
+}
