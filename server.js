@@ -16,19 +16,22 @@ app.use(express.static(path.join(__dirname, '/data')));
 
 
 app.get('/json/:place/:city', function(req,res) {
-	res.sendFile(__dirname + '/data/'+ req.params.place +'/' + req.params.city + '.json');
+	res.sendFile(__dirname + '/data/'+ req.params.city +'/' + req.params.place + '.json');
 });
 
 app.get('/csv/:place/:city', function(req,res) {
-	res.sendFile(__dirname + '/data/'+ req.params.place +'/' + req.params.city + '_'+req.params.place +'.csv');
+	res.sendFile(__dirname + '/data/'+ req.params.city +'/' + req.params.place +'.csv');
 });
 
+// Uses axios to create get request from google places api to request data
+// After 5 seconds of initiating scrape will display the resulted data unless an error occurs
+// TODO: pagination, display file structure
 app.get('/pull/:place/:city', function(req,res) {
 	console.log(req.params);
 	pull(req.params.place, req.params.city, data => {
 		console.log(data);
 
-		jsonfile.writeFile('./data/'+req.params.city +'/'+ req.params.place +'.json', data, {spaces: 1}, function(err) {
+		jsonfile.writeFile('./data/'+ req.params.city +'/'+ req.params.place +'.json', data, {spaces: 1}, function(err) {
 			if(err) console.log(err);
 			console.log('$$json file wrote$$');
 		});
@@ -48,10 +51,14 @@ app.get('/pull/:place/:city', function(req,res) {
 			console.log(err);
 		}		
 	});	
+
+	setTimeout(function() {
+		res.sendFile(__dirname + '/data/'+ req.params.city +'/' + req.params.place + '.json');
+	}, 5000);
 });
 
-// Can pull any use
-// example: pull(schools, 'san+diego', callback())
+// Can pull any type of use
+// example: pull(schools, 'sandiego', callback())
 function pull(place ,city, callback) {
 	var array = [];
 	var token;
@@ -60,13 +67,13 @@ function pull(place ,city, callback) {
 
 		array = trimData(res.data.results, array.length, place);
 		console.log(place ,array.length);
-		setTimeout(nextPull, 2000, res.data.next_page_token, function(data) {
+		setTimeout(nextPull, 1500, res.data.next_page_token, function(data) {
 			// console.log(data.next_page_token);
 			array = array.concat(trimData(data.results, array.length, place));
 			console.log(place,2, array.length);			
 
 			if(data.next_page_token) {
-				setTimeout(nextPull, 2000, data.next_page_token, function(data) {
+				setTimeout(nextPull, 1500, data.next_page_token, function(data) {
 					array = array.concat(trimData(data.results, array.length, place));
 					console.log(place,3,array.length);
 					callback(array);
