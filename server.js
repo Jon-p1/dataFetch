@@ -16,11 +16,11 @@ app.use(express.static(path.join(__dirname, '/data')));
 
 
 app.get('/json/:place/:city', function(req,res) {
-	res.sendFile(__dirname + '/data/'+ req.params.city +'/' + req.params.place + '.json');
+	res.sendFile(__dirname + '/data/'+ req.params.city +'_' + req.params.place + '.json');
 });
 
 app.get('/csv/:place/:city', function(req,res) {
-	res.sendFile(__dirname + '/data/'+ req.params.city +'/' + req.params.place +'.csv');
+	res.sendFile(__dirname + '/data/'+ req.params.city +'_' + req.params.place +'.csv');
 });
 
 // Uses axios to create get request from google places api to request data
@@ -28,10 +28,11 @@ app.get('/csv/:place/:city', function(req,res) {
 // TODO: pagination, display file structure
 app.get('/pull/:place/:city', function(req,res) {
 	console.log(req.params);
-	pull(req.params.place, req.params.city, data => {
-		console.log(data);
+	pull(req.params.place, req.params.city, (data, use, city) => {
+		
+		var file_name = './data/'+ city +'_'+ use;
 
-		jsonfile.writeFile('./data/'+ req.params.city +'/'+ req.params.place +'.json', data, {spaces: 1}, function(err) {
+		jsonfile.writeFile(file_name + '.json', data, {spaces: 1}, function(err) {
 			if(err) console.log(err);
 			console.log('$$json file wrote$$');
 		});
@@ -43,7 +44,7 @@ app.get('/pull/:place/:city', function(req,res) {
 			var parser = new json2csv(opts);
 			var csv = parser.parse(data);
 			
-			fs.writeFile("./data/"+ req.params.city +"/" + req.params.place + ".csv", csv, function(err) {
+			fs.writeFile(file_name + '.csv', csv, function(err) {
 				if(err) console.log(err);
 				console.log('$$csv file wrote$$');
 			});
@@ -53,7 +54,7 @@ app.get('/pull/:place/:city', function(req,res) {
 	});	
 
 	setTimeout(function() {
-		res.sendFile(__dirname + '/data/'+ req.params.city +'/' + req.params.place + '.json');
+		res.sendFile(__dirname + '/data/'+ req.params.city +'_' + req.params.place + '.json');
 	}, 5000);
 });
 
@@ -76,9 +77,9 @@ function pull(place ,city, callback) {
 				setTimeout(nextPull, 1500, data.next_page_token, function(data) {
 					array = array.concat(trimData(data.results, array.length, place));
 					console.log(place,3,array.length);
-					callback(array);
+					callback(array, place, city);
 				});
-			} else callback(array);
+			} else callback(array, place, city);
 		});
 	}).catch(function(err) {
 		console.log(err);
